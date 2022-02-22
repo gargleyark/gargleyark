@@ -1,13 +1,10 @@
-[![Mike Logo](mike-logo.svg)](http://gargleyark.com/)
+### [Mike Steel](http://gargleyark.com/)
 
 (He/Him)
 
 Lead developer for [Javascript](https://www.ecma-international.org/default.htm) and [Typescript](https://www.typescriptlang.org/).
 
 Slightly above average Catan player.
-
-![NPM Version][npm-image]
-![Linux Build][travis-image]
 
 ## Why
 
