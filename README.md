@@ -1,4 +1,4 @@
-### [Mike Steel](http://gargleyark.com/)
+# [Mike Steel](http://gargleyark.com/)
 
 (He/Him)
 
