@@ -88,7 +88,7 @@ If you discover a security vulnerability with Mike, please see [Security Policie
 
 ## Protocols
 
-Mike will generally broadcast using the PUN protocol. If you want him to be quiet you can attempt SSH.
+Mike will generally broadcast using the PUN protocol. If you do not need verbose output you can attempt SSH.
 
 ```bash
 mike be quiet
