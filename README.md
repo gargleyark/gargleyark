@@ -109,7 +109,7 @@ mike, how are you?
 
 ## License
 
-Mike is distributed under [MIT license](license.md).
+Mike is distributed under [Schrödinger License](https://github.com/benlk/misc-licenses/blob/master/schrodinger-license.md).
 
 [npm-image]: ./mike.svg
 [npm-url]: https://npmjs.org/package/express
