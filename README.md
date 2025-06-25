@@ -84,7 +84,7 @@ _Please make sure language version is set to EN or [JEFF](http://cultofjeffgoldb
 
 ### Security Issues
 
-If you discover a security vulnerability with Mike, please see [Security Policies and Procedures](https://www.hart.gov.uk/sites/default/files/4_The_Council/Policies_and_published_documents/Corporate_policies/Office%20Security%20Policy%20and%20Procedure.pdf).
+If you discover a security vulnerability with Mike, please see [Security Policies and Procedures](https://nki.gov.hu/wp-content/uploads/2020/11/Strategy-for-the-security-of-network-and-information-systems-in-Hungary.pdf).
 
 ## Protocols
 
